@@ -1,0 +1,16 @@
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\bin\Debug\net5.0\Cronometro.exe
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\bin\Debug\net5.0\Cronometro.deps.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\bin\Debug\net5.0\Cronometro.runtimeconfig.dev.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\bin\Debug\net5.0\Cronometro.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\bin\Debug\net5.0\ref\Cronometro.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\bin\Debug\net5.0\Cronometro.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.csproj.AssemblyReference.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfoInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.AssemblyInfo.cs
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\ref\Cronometro.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\Cronometro.NET\Cronometro\obj\Debug\net5.0\Cronometro.genruntimeconfig.cache
