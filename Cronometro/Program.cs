@@ -1,12 +1,11 @@
-﻿using System;
-
-namespace Cronometro
+﻿namespace Cronometro
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Tools cronometro = new();
+            cronometro.Menu();
         }
     }
 }
